@@ -1,9 +1,8 @@
 return {
   {
     "ThePrimeagen/refactoring.nvim",
-    commit = "fa781bd",
     dependencies = {
-      "nvim-lua/plenary.nvim",
+      "lewis6991/async.nvim",
     },
   },
   {
