@@ -1,5 +1,12 @@
 return {
   {
+    "ThePrimeagen/refactoring.nvim",
+    commit = "fa781bd",
+    dependencies = {
+      "nvim-lua/plenary.nvim",
+    },
+  },
+  {
     "neovim/nvim-lspconfig",
     lazy = true,
     event = "BufReadPost",
