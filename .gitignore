@@ -1,0 +1,10 @@
+*
+!tmux/
+!kitty/
+!nvim/
+!tmux/**
+!kitty/**
+!nvim/**
+!.gitignore
+!starship.toml
+*/**/.claude
